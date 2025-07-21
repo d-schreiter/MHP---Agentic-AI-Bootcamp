@@ -1,7 +1,5 @@
 # 🚗 Auto-Insurance claim automation with Agentic AI 
 
-<img src="https://github.ibm.com/skol/agentic-ai-client-bootcamp/blob/main/img/beta.png" width="100">
-
 ![](insurance-banner.png)
 
 ## 🤔 The Problem
