@@ -56,7 +56,7 @@ ABC Insurance Agency is a pioneer in Auto-insurance. While ABC Insurance has lon
 
 ## 🏛 Architecture
 
-![Architecture](/usecases/autoclaim-insurance/assets/Insurance_Autoclaims_Architecture_v2.png)
+![Architecture](./assets/Insurance_Autoclaims_Architecture_v2.png)
 
 ---
 
@@ -72,4 +72,4 @@ https://github.ibm.com/skol/agentic-ai-client-bootcamp/assets/448234/63965561-72
 
 ## 📝 Hands-on step-by-step lab
 
-Please find the step-by-step instructions [Hands-on Lab](/usecases/autoclaim-insurance/assets/hands_on_lab_autoclaim_insurance.md) on how you can implement this use case.
+Please find the step-by-step instructions [Hands-on Lab](./assets/hands_on_lab_autoclaim_insurance.md) on how you can implement this use case.
